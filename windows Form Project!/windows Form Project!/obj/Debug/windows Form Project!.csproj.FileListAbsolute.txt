@@ -1,0 +1,10 @@
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\bin\Debug\windows Form Project!.exe.config
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\bin\Debug\windows Form Project!.exe
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\bin\Debug\windows Form Project!.pdb
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows Form Project!.csproj.AssemblyReference.cache
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows_Form_Project_.Form1.resources
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows_Form_Project_.Properties.Resources.resources
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows Form Project!.csproj.GenerateResource.cache
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows Form Project!.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows Form Project!.exe
+\\JLC-FSRV01\s24000006612\Documents\windows Form Project!\windows Form Project!\obj\Debug\windows Form Project!.pdb
